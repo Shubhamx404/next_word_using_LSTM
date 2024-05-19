@@ -1,0 +1,640 @@
+E-commerce is the process of selling goods and services online. Customers come to the website or online marketplace and purchase products using electronic payments. Upon receiving the money, the merchant ships the goods or provides the service.
+
+E-commerce has been around since the early 1990s when Amazon just sold books. Today, it’s a multibillion-dollar industry. According to Statista, the U.S. e-commerce industry is expected to eclipse $1 trillion in value in 2024, making it a major economic staple for the national economy.
+
+How does e-commerce work?
+E-commerce works on the same principles as a physical store. Customers come into your e-commerce store, browse products and make a purchase. The big difference is they don’t have to get off their couch to do so, and your customer base isn’t limited to a specific geographic area or region.
+
+Whether you’re selling running shoes or home supplies, you go through the same process when operating an e-commerce website:
+
+Accept the order. The customer places an order on your website or e-commerce platform. You’ll be alerted that an order was placed.
+Process the order. Next, the payment is processed, the sale is logged, and the order is marked complete. Payment transactions are usually processed through what is known as a payment gateway; think of it as the online equivalent of your cash register. [Read related article: What Is a Merchant Account, and Do You Really Need One?]
+Ship the order. The last step in the e-commerce process is shipment. You have to ensure prompt delivery if you want repeat customers. Thanks to Amazon, consumers are used to getting items within two days.
+To show how it works in action, here’s a look at a product’s journey when it is purchased online:
+
+A customer visits your online shop and browses your products. She settles on a shirt. She chooses the size and color and adds it to the shopping cart.
+An order manager or order management software confirms the product is in stock.
+If the product is available and the customer is ready to check out, she enters her payment card details and shipping information on your payment form or page.
+The payment processor, typically a bank, confirms the customer has enough cash in the bank or enough credit on her card to complete the transaction.
+The customer gets a message on the website that the transaction went through. This all happens in seconds.
+The order is dispatched from the warehouse and shipped. The customer will receive an email that the product is out for delivery.
+The order is delivered, and the transaction is complete.
+Key Takeaway
+E-commerce transactions are similar to physical retail transactions in that customers come into your store, shop for products and check out. The difference is that it is done digitally and you have to ship the items to your customers.
+What features should an e-commerce site have?
+To be successful at electronic commerce, you should have a comprehensive list of the products and services you sell on your website or marketplace page. The online shop should be easy to navigate, user-friendly and aesthetically appealing. It should also be optimized for mobile devices. 
+
+The checkout experience is another important aspect of e-commerce functionality. It is the process the customer goes through to buy your product or service. If your checkout process is clunky and cumbersome or requires too many steps, you may lose the sale. Shopping cart abandonment is a real phenomenon, with the Baymard Institute finding the average abandonment rate stands at nearly 70 percent.
+
+What are the pros and cons of operating an e-commerce business?
+Pros of running an e-commerce business
+There were lots of reasons to start an online retail business before the pandemic, and there are even more now. Here are seven of the main ones.
+
+It has fewer overhead costs than a physical store. A big expense of running a retail business is the physical storefront. That means money spent on rent, utilities and other such needs. All of that goes away when you operate an e-commerce store. There is no rent to pay. You don’t have to worry about keeping the lights on, nor do you have to pay to have the lawn mowed or the walkways shoveled.
+You can operate 24/7 with no staff. The internet doesn’t have store hours. It is up 24/7, and so is your e-commerce business. Unlike a physical store with set hours, your site can accept orders whenever your customers are ready to buy, which can drive more business. If you use software to automate most of the process, you won’t need to hire an ordering manager to work the night shift.
+Your business can scale on the fly. There are physical limits to how many products you can stock when you operate a brick-and-mortar store – you have only so much shelf space. There are no such limits with e-commerce; you can add and remove products as you see fit.
+You can reach more customers. Your business may be in New York, but you can sell to customers in California if your store is online. “E-commerce changes the game for small business,” said Ben Richmond, U.S. country manager at Xero. “It doesn’t matter if you’re in a city or in a small regional town – e-commerce gives you the opportunity to live where you want and sell into many markets.”
+It’s easy to track your sales and shipments. Logistics are make-or-break for e-commerce companies. Thanks to the digital nature of e-commerce, it’s easy to track sales and shipments. The benefit of having this information in real time is that it allows you to quickly identify and rectify any snafus.
+It compiles customer data. When you sell products online, you capture a lot of customer data, from addresses to emails. You can also glean information about their purchasing preferences. You can use these insights to target loyal customers with promotions and discounts.
+It’s pandemic-proof. While brick-and-mortar businesses were forced to close their doors amid the pandemic, online businesses were able to stay open. As a result, consumers have shifted their shopping habits, making it a necessity for every retailer to run an online store. “As more consumers are shifting their spending from visiting brick-and-mortar stores to online shopping, businesses need to shift too,” Richmond said.
+Cons of running an e-commerce business
+Though e-commerce has many benefits, it’s not without its challenges. Here are six to consider before you decide if an e-commerce business is right for you.
+
+You can’t reach everyone. Even amid the pandemic, there are still consumers who simply don’t like shopping online; they want to see and touch products before they buy, and they are afraid of online fraud. According to Oberlo, 2.77 billion people are projected to shop online in 2025 – but that’s out of the 7.8 billion people worldwide..
+Data and credit card fraud are rampant. One of the biggest problems with e-commerce is the risk of fraud. Credit card and identity theft are commonplace, affecting thousands of consumers annually. If hackers breach your network and steal sensitive customer information, it could cause irreparable damage.
+Customers abandon their shopping carts. E-commerce makes it easier for customers to window-shop with little intention of buying. Shopping cart abandonment impacts a high percentage of online sales.
+There are costs for doing business online. You may not have the overhead physical retailers have, but there are still costs to consider, such as website hosting and/or e-commerce platform fees, internet service costs, social media marketing, inventory management, and storage and shipping. Like any other business owner, you must also consider applicable taxes, business licenses and regulations.
+E-commerce is a cutthroat business. You aren’t the first person to sell a product or service online; depending on your industry, you may have many competitors with identical or very similar products. Since many consumers shop based on price and expect to find good deals on the internet, you may find yourself in a race to the bottom.
+Customers want fast, free shipping. Physical retailers don’t have to worry about packaging and shipping their products. An online retailer does. Amazon has taught customers to expect not only two-day shipping, but also free shipping – which you may not be able to afford to offer.
+Key Takeaway
+An e-commerce business can help you save money on overhead, expand your customer base and track sales, but it also has risks. Payment and data fraud, fierce competition, and discount-seeking consumers are ongoing challenges.
+Types of e-commerce business models
+There are several different e-commerce business models, based on what is being sold and to whom. These are the three most common types.
+
+Business to consumer (B2C): This type of business sells products or services directly to the individual consumer. B2C e-commerce is the most common online business type and covers a broad array of products, from clothing to entertainment. Examples of B2C e-commerce stores include Amazon, Netflix and Overstock. Most established retailers, from Nike to Tommy Bahama, operate this type of e-commerce site.
+Business to business (B2B): When a business sells products or services to another business online, it is considered B2B e-commerce. These businesses might sell items such as office supplies, furniture and equipment. They also provide online business solutions, such as document-signing software and other cloud-based services.
+Marketplaces: Pioneered by eBay but overtaken by Amazon, e-commerce marketplaces are websites where third-party merchants can sell their products or services to consumers. Walmart.com and Etsy are other examples of online marketplaces. For a cut of your sale, you can list your products on their platforms and access their customer bases. Many online marketplaces will handle your payment processing, logistics and even social media marketing for a fee.
+graphic of people shopping in front of a large computer screen
+
+Examples of e-commerce businesses
+Online retail: Amazon is the crowned champion of retail in the e-commerce world, but you don’t have to be the next Amazon to succeed in this space. You can use resources like Amazon and eBay partnerships to get an online store off the ground.
+Wholesale: One of the best-known wholesale e-commerce sites is Alibaba. While Alibaba does get into B2C sales as well, it has established itself as a global giant in the B2B space. Businesses all over the world get their goods from Alibaba.
+Dropshipping: Dropshipping is where another company handles your product for you. You create the online space where customers can browse and place orders, but the dropshipping company takes care of the logistics of delivering the goods to the customer. While Amazon does cross into this space, the No. 1 dropshipping company right now is Shopify. You can have a working storefront on Shopify in a matter of hours.
+Subscription: Subscription companies come in many shapes and sizes. The subscription can be for automated replenishment of goods, like Dollar Shave Club. They can be for curation, like with a wine of the month club. The subscription can also grant access to a service. Netflix is the best example of this type of subscription model.
+Digital products: Digital product stores do not offer physical, tangible goods. They offer digital products, which should not be confused with services. The most common digital product is software. Microsoft is one of the most prolific digital product companies. Digital products can be art, online courses and other “objects” that can be purchased, even though they exist only on a computer.
+Physical products: On Etsy, people make physical objects that they then sell and personally ship. You can see how this is different from retail or dropshipping. A physical products e-commerce business will make the things it sells.
+Services: Services are some of the easiest things to sell online. E-commerce services include tax and accounting, healthcare, legal services, and just about anything else imaginable. 
+E-commerce can be a low-cost business to start
+Selling goods and services online can expand your customer base at a relatively low cost. For the price of building a website with an e-commerce store, a marketing and advertising budget, and basic inventory, you can begin selling right away. Whether you’re launching a startup or looking to expand an existing operation, e-commerce may be the sales channel you need to add to your business.
+
+Tejas Vemparala contributed to this article. Some source interviews were conducted for a previous version of this article.
+
+Share Article:n 30 short years, e-commerce has revolutionized the way we shop. No longer does shopping refer only to going to a store, picking out and paying for goods, then bringing them home. Shopping trips that used to take hours can now take seconds, and can be done from anywhere with an internet signal. The thrill of the purchase is now stretched out, starting with the click to buy and culminating with the “unboxing” (which has become an industry in itself).
+
+Get to know and directly engage with senior McKinsey experts on e-commerce
+Arun Arora is a senior partner in McKinsey’s Paris office; Yuval Atsmon, Ralf Dreischmeier, Kate Smaje, and Bjorn Timelin are senior partners in the London office; Julien Boudet is a senior partner in the Southern California office; Marc Brodherson and Ari Libarikian and are senior partners in the New York office; Karel Dörner is a senior partner in the Munich office; Aimee Kim is a senior partner in the Seoul office; Sajal Kohli is a senior partner in the Chicago office; and Paul Roche is a senior partner in the Bay Area office.
+
+We strive to provide individuals with disabilities equal access to our website. If you would like information about this content we will be happy to work with you. Please email us at: McKinsey_Website_Accessibility@mckinsey.com
+Simply put, e-commerce is anything—goods or services—that is bought or sold on the internet. E-commerce has been growing consistently ever since the first online transaction in 1994, when someone sold his friend a Sting CD for $12.48 plus shipping. But when the COVID-19 pandemic hit, triggering lockdowns all over the world, customers went all in: year-over-year growth of e-commerce as a share of total retail sales grew 1.6 times in China, 3.3 times in the United States, and 4.5 times in the United Kingdom. E-commerce sales penetration in the United States more than doubled to 35 percent in 2020 from the previous year, roughly the equivalent of ten years of growth. Globally, nearly 20 percent of total global sales in 2021 were made from online purchases. By 2025, nearly a quarter of all global sales are expected to be made online.
+
+Large retailers were the primary beneficiaries of this massive collective pivot, particularly those who had invested in e-commerce infrastructure and capabilities for years prior. But for businesses accustomed to operating offline, incorporating e-commerce into the customer experience can be fraught with challenges. According to McKinsey analysis, small and medium-size retailers (those with less than $5 billion in annual revenue) and brand manufacturers, such as consumer packaged goods and apparel companies, realize a much smaller portion of revenue from e-commerce than large retailers with years of experience in the e-commerce realm. For those who rushed to launch e-commerce services, cracks are already beginning to appear. But we’ve also seen that the e-commerce opportunity, particularly for SMEs, is tremendous.
+
+Read on for a deep dive into e-commerce: we’ll start with how e-commerce can drive value for small and large retailers. Then, we’ll move onto how other types of organizations, including brands, consumer packaged goods companies, and B2B companies, can build value via e-commerce. Finally, we’ll turn to how organizations in emerging markets are embracing e-commerce.
+
+Learn more about McKinsey’s Growth, Marketing & Sales Practice.
+
+Circular, white maze filled with white semicircles.
+Introducing McKinsey Explainers: Direct answers to complex questions
+Explore the series
+How does e-commerce drive value for retailers?
+E-commerce builds value for retailers of all sizes by driving efficient sales and creating alternative revenue streams, like retail media networks.
+
+Smaller retailers
+Many small companies, in their rush to launch a new business, fall into traps that inhibit long-term growth. The stats for new business survival are grim: only 24 percent of new businesses launched in the past ten years have become viable large-scale enterprises.
+
+Nascent e-commerce businesses face special challenges. McKinsey analysis has identified five short-term traps that hamper small- and medium-size companies’ e-commerce growth, as well as ways to guard against them:
+
+MOST POPULAR INSIGHTS
+What’s the future of AI?
+Why so many bad bosses still rise to the top
+What is generative AI?
+The economic potential of generative AI: The next productivity frontier
+What is AI (artificial intelligence)?
+Leading with tech focus, while deferring investment in areas such as operations and channel management. To avoid inventory shortfalls, ensure that sales and operations leaders have the same success metrics as IT teams, and build all elements of the business in parallel.
+Building a directionless tech stack solely useful for launch. The wrong tech architecture will create technical debt that hampers efforts to scale. To combat this, define the longer-term architecture and build a minimum viable product as a steppingstone to a larger goal.
+Underinvesting funds and capabilities. Companies are frequently tempted to spend as little as possible on launching e-commerce businesses, and then expect an immediate ROI for every dollar spent. To guard against this trap, build in a “learning buffer” to any budget, to allow for necessary (and instructive) setbacks.
+Learning the economics on the fly, rather than taking time to fully understand unit economics and implement a business model with long-term potential. Instead, work to understand the key drivers of growth and profitability through the lens of profit and loss.
+Building the new business too close to the core. Corporate business-building activities are often hampered by internal policies that slow the development of new business. Combat this by creating distance between the new e-commerce business and core businesses. This allows for more agile ways of working to develop that reflect the nature of the new business.
+Larger retailers
+For larger retailers looking to get a piece of the e-commerce pie, time is of the essence. Generally, companies can create a working e-commerce site in less time than they think; in McKinsey’s experience, new businesses can be launched in fewer than four months.
+
+McKinsey worked with a European retail chain that had around 1,000 brick-and-mortar retail stores across the world, and that had decided to create an e-commerce presence. Thirteen weeks later, it had a fully functioning e-commerce business in one of its regions. Launch was successful from the first month, generating nearly 3 percent revenue growth in the region, tripling average basket size compared to retail stores, and maintaining high customer satisfaction. Here are the three main lessons from that program:
+
+Be pragmatic. Rather than attempting to launch a full-blown digital business across all markets at once, the retail CEO decided to go to market fast, in one region, with a limited offering. All initiatives that didn’t have direct customer impact were postponed in favor of efforts that did.
+Assign ownership, not tasks. By clearly designating which teams were responsible for which tasks, the retail chain was able to launch at speed. The chain created four teams in charge of the launch: tech and design, operations, product assortment, and marketing.
+Learn and adapt. Putting in place the right key performance indicators early in the process of launching an e-commerce business is critically important. These allow companies to track what’s happening, and adapt to drive continual improvement.
+Learn more about McKinsey Digital.
+
+What’s a retail media network?
+2020 was a tough year for traditional retail. Customers shifted to e-commerce channels by nearly 30 percent, adding to retailers’ pandemic-related challenges. In order to compete, retailers have needed to rethink their growth strategies.
+
+One way to approach the problem is by joining a retail media network (RMN). RMNs hold potential value for retailers by offering the chance to build a high-margin business to drive e-commerce innovation. RMNs work by leveraging retailers’ detailed knowledge of their customers to offer advertising opportunities for brands to target customers through a retailer’s digital channels, physical stores, and syndication on third-party platforms like Google. RMNs also offer brands the opportunity to access customers directly via first-party data. And finally, RMNs can help brands deliver a seamless, digitally enabled omnichannel shopping experience.
+
+Many large retailers in the United States, like Amazon and Target, have already built and scaled RMNs. The biggest opportunity is for retailers in Europe, the Middle East, and Africa, where RMNs are still a relatively hidden and fast-growing profit stream. (For example, in the United Kingdom, RMNs are growing by more than 10 percent year over year.)
+
+How can e-commerce drive value for brands?
+One way brands can build value is via direct-to-consumer (DTC) e-commerce. There are distinct advantages for retailers establishing direct relationships with end consumers. Here are a couple of examples of brands that successfully used DTC e-commerce:
+
+Harry’s, a men’s grooming product company, used DTC to generate customer insights and build community. A pre-launch campaign helped the company gather 100,000 email addresses from potential customers through a waitlist and social sharing. Harry’s also learned from its interactions with early customers and tweaked its products before releasing them more widely.
+DTC also gives brands like L’Oréal direct access to consumer feedback for evaluation and testing. In 2018, the beauty brand launched its augmented reality try-on service to let customers sample makeup and hair-color products at home. The use of this touchless service increased dramatically during COVID-19.
+A clear strategy that identifies the opportunity and execution capability to convert consumers can help businesses get set up for DTC e-commerce success.
+
+E-commerce can also drive value for brands via live commerce and social commerce. Live commerce blends entertainment with instant purchasing, offering retailers, brands, and digital platforms a new channel with massive scope for creating value. Its cousin social commerce is where consumers explore products and make purchases through social media and content creation platforms, within an app.
+
+Both live commerce and social commerce got their start in China. Brands in China have achieved conversion rates of almost 30 percent on social platforms, up to ten times higher than conversion in conventional e-commerce. They’ve achieved these remarkable numbers by developing partnerships with social media influencers and participating in live-stream shopping (an experience that combines instant purchasing of a featured product and audience participation). In 2021, Chinese consumers spent $352 billion—or 13 percent of total e-commerce gross merchandise value—on social commerce. The staggering numbers from China offer a glimpse of what’s possible in the US and globally: already, in 2021, $37 billion in goods and services were purchased through social commerce channels. That number is expected to grow to nearly $80 billion, or 5 percent of total US e-commerce.
+
+Live commerce was pioneered by Alibaba in 2016, with the launch of Taobao Live, a streaming service that allows users to sell items and engage with other users. Customers responded, and live commerce became a mainstay of sales campaigns for Single’s Day, a major shopping event in China, as well as a reliable tool for boosting customer engagement and sales. The numbers speak for themselves: In 2020, the first 30 minutes of Alibaba’s Single’s Day campaign on Taobao Live generated $7.5 billion in total transaction value. And in a 2020 survey, two-thirds of Chinese consumers said they had bought products via livestream in the preceding year. Taking China’s experience as a bellwether, live commerce seems to hold enormous potential for brands and e-commerce platforms.
+
+Live commerce creates value in two ways. First, live commerce accelerates conversion by keeping viewers entertained during an immersive shopping experience. Time-limited tactics like one-off coupons can be used to create a sense of urgency. Live commerce also improves brand appeal and differentiation by increasing a brand’s distinctiveness in the context of entertainment.
+
+To get started in live commerce, brands will need to take a thoughtful, iterative approach to the medium, exploring low-risk options first. Test the waters, running infrequent streams on one social media channel or marketplace focused on only a few products. Also, track the performance of livestreams with key performance indicators for numbers of views, conversion rates, and best-selling products. Gradually, brands can begin to experiment with a regular schedule of live events hosted on their own websites, managed by a full-time in-house or agency team. Finally, brands can scale up to broadcast frequent livestreams across multiple channels, focused on different audience segments and product categories.
+
+Learn more about McKinsey’s Growth, Marketing & Sales Practice and McKinsey Digital.
+
+How can e-commerce drive value for consumer packaged goods (CPG) manufacturers?
+Play Video
+Video
+Consumer packaged goods are items used on a regular basis by most people, such as food, clothes, cleaning products, and toiletries. As we’ve seen, with COVID-19, there has been a rapid and large-scale shift from in-store retail to e-commerce. Before the pandemic, only 13 percent of US households had purchased groceries online; as of late March 2020, that number had risen to 31 percent. And consumer sentiment surveys taken as the pandemic wore on indicated that US consumers were happy with the shift to omnichannel shopping. McKinsey analysis shows that online sales in US retail jumped 40 percent year over year in 2021.
+
+This news has come as a mixed blessing for CPG manufacturers. That’s because e-commerce has, for many manufacturers, historically been less profitable than brick-and-mortar sales. Looking ahead, manufacturers should strategize about how to maintain margins.
+
+McKinsey analysis points to four ways to improve margins:
+
+Establish detailed transparency into e-commerce profits and loss. This means integrating into business reporting the e-commerce metrics that enable business leaders to get a full picture of performance, make informed investment trade-offs, and align decision makers.
+Earmark specific e-commerce marketing investment, rather than drawing from shopper-marketing budgets.
+Use e-commerce revenue growth management tactics, including introducing channel specific products to prevent consumers from making direct price comparisons.
+Incorporate omnichannel supply chain actions, including improving demand forecasting and executional precision, and redesigned, lower-cost packaging.
+McKinsey forecasts that, in the future, new ways to reach consumers will continue to emerge, competition for marketing and trade dollars will heat up, and personalization and precision targeting will become top priorities.
+
+Learn more about McKinsey’s Consumer Packaged Goods and Growth, Marketing & Sales Practices.
+
+How can e-commerce drive value for B2B companies?
+Misconceptions abound when it comes to B2B e-commerce. Despite e-commerce being a key purchasing gateway for many corporate buyers, McKinsey frequently hears from B2B companies that “customers aren’t ready,” or that “e-commerce is an immature space for a business like ours.”
+
+In reality, according to McKinsey research, two-thirds of corporate buyers rely on digital and remote channels throughout their purchasing journey. And B2B suppliers are ramping up their capabilities at incredible speed.
+
+Here are five myths around B2B e-commerce that are past due for dispelling:
+
+Most B2B companies don’t offer e-commerce. Actually, 65 percent of B2B companies across industries now offer e-commerce capabilities, up from 53 percent in early 2021. And in a remarkable first, B2B sellers are now more likely to offer e-commerce channels than in-person selling.
+B2B buyers prefer face-to-face interactions. In reality, two-thirds of corporate customers prefer digital or remote in-person engagement when given the choice.
+A basic e-commerce site is enough. Incorrect: McKinsey research shows that a majority of B2B companies treat e-commerce as a full-service channel and are investing accordingly. More than 80 percent of B2B companies say they hold their e-commerce channel to the same or higher standard as other channels.
+E-commerce is only for repeat or low-ticket B2B purchases. This assumption is based on outdated wisdom. These days, businesses have shed any trepidation about conducting large transactions online. More than one-third now say they are willing to spend $500,000 or more on digital channels, and 15 percent say they are comfortable making purchases of over $1 million online.
+Digital marketplaces are a next-level nice-to-have. The opposite is true. B2B buyers see digital marketplaces as a critical part of the purchasing mix. Sixty percent of buyers say they are open to purchasing on digital marketplaces.
+How can e-commerce support business growth in emerging markets?
+E-commerce in Africa, for instance, supports a very mobile population in efficiently accessing goods and services. In an interview with McKinsey, Sacha Poignonnec—the CEO of Jumia, Africa’s largest internet group—says e-commerce gives users in villages and small cities more choice than they would have otherwise.
+
+A major challenge in Africa, and other emerging markets, is logistics. Because there are no address systems in most cities in Africa, e-commerce players need local partners who know where to find customers. Sometimes the address is “the third street by the church with the blue door,” Poignonnec says. You need someone on the ground who knows what that means.
+
+Poignonnec also emphasizes the potential for small businesses in emerging markets to grow via e-commerce, because the investment required is small compared to the number of customers a business can reach. Rather than going offline to online, as many merchants are doing in Europe and the US, retailers in emerging markets can start small, invest in an online store, then eventually leverage e-commerce success to open a brick-and-mortar store.
+
+Learn more about Growth, Marketing & Sales consulting at McKinsey—and check out job opportunities related to e-commerce if you’re interested in working at McKinsey.
+
+Articles referenced:
+
+“Social commerce: The future of how consumers interact with brands,” October 19, 2022, Camilo Becdach, Marc Brodherson, Alex Gersovitz, Daniel Glaser, Zachary Kubetz, Max Magni, and James Nakajima.
+“E-commerce: At the center of profitable growth in consumer goods,” July 5, 2022, Lidiya Chapple, Catherine Fong, Amanda Loyola, Max Magni, Megan Pacchia, Sameer Shah, and Tatiana Sivaeva.
+“Opportunities for e-commerce success in Europe: Retail media networks,” July 5, 2022, John-David Appleby, Carly Donovan, Craig Macdonald, and Björn Timelin.
+“Growth sprouts for SMEs in e-commerce,” June 9, 2022, Neira Hajro, Paul Roche, Katharina Schumacher, and Illya Symonenko.
+“Busting the five biggest B2B e-commerce myths,” January 26, 2022, Manu Bangia, Liz Harrison, Candace Lun Plotkin, and Kate Piwonski.
+“Solving the paradox of growth and profitability in e-commerce,” December 30, 2021, Jiamei Bai, Frances Fu, Rushan Guan, Steve Hoffman, Peeyush Karnani, Mihir Mysore, and Sarah Touse.
+“The six must-haves to achieve breakthrough growth in e-commerce D2C,” December 24, 2021, Yuval Atsmon, Anshul Bansal, Roberto Longo, Stijn Kooij, and Bogdan Toma.
+“Five traps to avoid: The long game of DTC and e-commerce,” September 2, 2021, Karel Dörner, Dianne Esber, Jason Shangkuan, Bernardo Sichel, and Amy Tong.
+“It’s showtime! How live commerce is transforming the shopping experience,” July 21, 2021, Arun Arora, Daniel Glaser, Aimee Kim, Philipp Kluge, Sajal Kohli, and Natalya Sak.
+“High growth, low profit: The e-commerce dilemma for CPG companies,” March 22, 2021, Lidiya Chapple, Catherine Fong, Maria Kuska, Megan Lesko Pacchia, Isabella Maluf, and Tatiana Sivaeva.
+“How e-commerce share of retail soared across the globe: A look at eight countries,” March 5, 2021.
+“DTC e-commerce: How consumer brands can get it right,” November 30, 2020, Arun Arora, Hamza Khan, Sajal Kohli, and Caroline Tufft.
+“Think fast: How to accelerate e-commerce growth,” November 19, 2020, Arun Arora, Julien Boudet, Michael Bucy, Hamza Khan, Rafael Montilla, and Kate Smaje.
+“Building an e-commerce business: Lessons on moving fast,” April 3, 2020, Arun Arora, Philip Christiani, Ralf Dreischmeier, Ari Libarikian, and Hayk Yegoryan.
+“How e-commerce supports African business growth,” January 17, 2019, Georges Desvaux.
+“Thinking inside the subscription box: New research on e-commerce consumers,” February 9, 2018, Tony Chen, Ken Fenyo, Sylvia Yang, and Jessica Zhang.
+A blue cell phone floats in the middle of the frame while gold coins move towards it on the left side and cardboard shipping boxes move out from the right side. The scene is set against a light blue background. 
+Want to know more about e-commerce?
+Talk to us
+
+
+RELATED ARTICLES
+Five traps to avoid: The long game of DTC and e-commerce
+Article
+Five traps to avoid: The long game of DTC and e-commerce
+illustration man shopping on life-sized mobile device
+Article
+Opportunities for e-commerce success in Europe: Retail media networks
+DTC e-commerce: How consumer brands can get it right
+Article
+DTC e-commerce: How consumer brands can get it right
+Sign up for our Monthly Highlights newsletter
+Don't miss this roundup of our newest and most distinctive insights
+
+Email address
+Subscribe
+
+Subscribe
+Select topics and stay current with our latest insights
+
+Email address
+Submit
+Contact us
+FAQ
+Privacy policy
+Cookie preferences
+Terms of use
+Local language information
+Accessibility statement
+McKinsey Insights - Get our latest thinking on your iPhone, iPad, or Android device.
+Download on the App Store
+Download Android app on Google Play
+of all ages including millennials, generation Z and older shoppers turned to their devices to purchase groceries, clothing, and home furnishings. The result is that there are now more than two billion global digital buyers, and by 2040, nearly 95% of all purchases will be conducted online or through digital channels.
+
+Although many could argue that 2020 was an exceptional year, the numbers show that much of this behaviour is here to stay. In fact, the retail e-commerce industry continued to grow by 16 per cent in 2021, generating around 4.9 trillion dollars in sales worldwide. By 2025, this number should reach 7.4 trillion dollars, a 50 per cent increase (Statistica). Frankly, it would take a brave soul to think that this growth and this shift in consumer behaviour will slow down soon.
+
+When your market is growing quickly, you must grow at least as rapidly as the market itself. Therefore, founders, managers and product owners of eCommerce businesses, must seek to grow revenues by more than 12% in 2022. As we have seen in the past, failure to do so will have severe repercussions. For the past 30 years, companies whose top-line growth hasn't kept pace with the market have disappeared shortly afterwards. Whilst there are exceptions, most eCommerce companies today will face the same issue. If they do not focus on growth, they have very little chance of survival.
+
+The message to eCommerce owners is clear, grow or die, unfortunately, it has become increasingly challenging to grow due to market forces such as rapidly increasing competition and rising acquisition costs.
+
+PROMOTED
+
+
+
+
+Increasing competition
+The pandemic has transformed eCommerce into a strategic objective for every business. Large brands, incumbents who missed the first wave of eCommerce, and new entrants are investing heavily in establishing eCommerce as a revenue-generating channel, and these changes are happening globally.
+
+Cross-border sales saw an increase of 21% last year due to consumers being more open to shop on eCommerce sites based in other countries. Research suggests that 57% of online shoppers worldwide have made at least one online purchase from a company in another country over the last 12 months – while a further 22% have considered doing so.
+
+MORE FROMFORBES ADVISOR
+Best Travel Insurance Companies
+ByAmy DaniseEditor
+Best Covid-19 Travel Insurance Plans
+ByAmy DaniseEditor
+A decade ago, there weren't many online stores, but today there are an estimated 24 million eCommerce sites across the globe. Tools like Shopify and Woo-commerce play a large part in this growth since they make the process of setting up an eCommerce store easier and cheaper than it has ever been. They have opened the door to thousands of new competitors. In 2020, Shopify saw an increase of nearly 800 thousand new merchants, and the Woo-commerce plugin is downloaded over 30,000 times a day. Whichever way you look at it, the competition in eCommerce is getting fierce.
+
+
+Forbes Daily: Join over 1 million Forbes Daily subscribers and get our best stories, exclusive reporting and essential analysis of the day’s news in your inbox every weekday.
+
+Email address
+Sign Up
+By signing up, you agree to our Terms of Service, and you acknowledge our Privacy Statement. Forbes is protected by reCAPTCHA, and the Google Privacy Policy and Terms of Service apply.
+Ecommerce owners find themselves in a situation where competition is increasing faster than the market is expanding, forcing brands to focus on growth to maintain their market share, but they also have to fight harder for that growth. It is not just competitive pressures that they face but the perfect storm of increased competition and higher acquisition costs.
+
+symbol
+00:00
+
+03:12
+Read More
+
+
+
+
+Increased acquisition costs
+It has become increasingly difficult for brands to stand out and appeal to their audiences as customer acquisition costs, cost per mille, and cost per click has increased. One of the reasons for this increase is the intensifying level of competition. Other factors such as the Apple IOS changes to ad targeting and privacy policies also add to the challenge by making it increasingly complex (and expensive) to reach audiences on social platforms such as Facebook.
+
+According to business insider, each major social media platform saw double-digit growth in costs year on year.
+
+Google’s CPM went up the most by 75%
+TikTok's CPM had a 185% increase
+Meta ad costs went up by 61%,
+Amazons CPC growth for sponsored products had a 14% increase
+This presents a significant threat to the growth of eCommerce brands, as everybody in the world wants to reduce the acquisition cost and get cheaper clicks and lower prices per thousand impressions. Unfortunately, the availability of super affordable, highly targeted traffic is limited no matter what your target market is. After that, traffic gets more expensive as you cast a wider net. Ecommerce owners and marketers are inevitably concerned about the rising costs of acquisition. A recent survey showed that 47% believe they will be "priced out" if the ads continue to become more expensive.
+
+In light of rising acquisition costs and competition, many eCommerce entrepreneurs are wondering where they can find additional hidden exponential growth.
+
+Where is the growth opportunity?
+The transformational growth that most eCommerce companies are looking for is quite simply hidden in their data. Only a tiny percentage of companies analyze their data. Some will generate reports on how much they made each month or how many goods they have sold. However, such data uses are somewhat limited and often poorly engaged with. Most surveys will show that less than 25% of people pay any attention to the data in most organizations. Yet, such a valuable asset should not be neglected. If analyzed correctly, it will offer millions of pounds worth of growth opportunities.
+
+In most organizations, there is a gold mine of information or a literal treasure map hidden in the data that can point directly to the areas you are leaving money on the table or that need improvement. Such powerful insights will help you understand where to make smart double-digit improvements to your eCommerce site and marketing campaigns. Companies that implement such improvements report an additional 50% revenue increase. To get to that next level of growth, you have to start analyzing your data.
+
+This is the start of a series of articles that explore how eCommerce companies can look to grow through their data. Stay tuned for the next one.
+
+
+
+BUSINESS INSIDER
+Marketers are paying a lot more for digital ads. Here's exactly how much it costs to advertise on Google, Facebook, Amazon, and TikTok.
+
+
+WEBINTERPRET
+10 significant ecommerce statistics you need to know in 2022
+
+
+STATISTA
+Topic: E-commerce worldwide
+
+
+MCKINSEY & COMPANY
+Five Fifty: The quickening
+Follow me on Twitter or LinkedIn. Check out my website or some of my other work here. 
+Mike Bugembe
+Mike Bugembe
+I am the author of the bestselling book, "Cracking the Data Code," which serves as a blueprint for generating real business value from... Read More
+
+Editorial Standards
+Print
+Reprints & Permissions
+
+
+
+
+LEADERSHIP
+Ready Or Not: Global Chemical Industry Executives May Need To Get Prepared For A Resurgence In Merger & Acquisition Activity
+Deloitte
+Andrew Botteril
+Brand Contributor
+Deloitte
+BRANDVOICE| Paid Program
+
+Click to save this article.
+You'll be asked to sign into your Forbes account.
+Got it
+May 2, 2024,02:21pm EDT
+Men working at a chemical warehouse
+GettyGETTY
+Merger and acquisition (M&A) activity in the global chemical industry wasn’t too inspiring in 2023. After dropping 16% compared to 2022, global M&A transaction volumes reached their lowest level in 10 years. With headwinds that included a high interest rate environment, lackluster revenue, and earnings performance amongst industry participants, and weak demand, most chemical companies spent the year inwardly focused on cost containment and working capital improvements.
+
+Yet, despite these trends, 86% of chemical industry executives across sectors and geographies say they are either somewhat or very likely to undertake an M&A transaction in 2024. Accelerating first quarter momentum seems to bear them out. The challenge? After a couple of years of transactional inactivity, many chemical companies will likely need to rebuild their deal-making muscles. Here are some ways to get started:
+
+Seize the moment
+
+After a couple years of hunkering down, chemical companies interested in riding the cresting M&A wave will need to keep a careful eye on shifting market conditions. As most chemical value chains have finish destocking, chemical production volumes may be poised to rebound. In fact, the American Chemistry Counsel (ACC) expects global chemical volumes to expand by 2.9% in 2024, compared to 0.3% in 2023. At the same time, many private equity funds are pushing up against longer hold periods, which may drive them to bring their portfolio companies to market. This may bring higher-quality acquisition opportunities to the market just as the cost of debt comes down due to loosening monetary policy from the central banks. This confluence of factors could herald ideal conditions for transactional activity in 2024.
+
+Chemical company executives may also want to pay attention to evolving global trends. For instance, the US still holds a significant feedstock cost advantage that makes it attractive to global chemical companies looking to increase their exposure to this low-cost production environment. In China, economic recovery is expected to spark major construction projects, boosting demand for chemical products. In Brazil, favorable economic indicators may drive higher M&A activity, with international investors already expressing interest in the country’s chemical industry. And in India, recent government policies specifically targeted at boosting the chemical industry could make local deals more attractive.
+
+Think small
+
+Although the chemical industry has remained resilient amid significant market turbulence, most companies have not emerged unscathed. This may explain why many are taking a constrained approach to inorganic growth, with acquisitions primarily driven by a company’s desire to expand its portfolio, technical capability, or geographic footprint. Similarly, among the chemical executives interviewed for Deloitte’s Global Chemical Industry M&A Outlook 2024, 53% ranked small strategic acquisitions as a top-three priority, pointing to a preference for smaller tuck-ins or bolt-on acquisitions versus large transformational deals. This impulse to think small may serve the industry well as M&A deals slowly begin to resurge.
+
+On the flip side, the tendency to play it safe has seen environmental, social, and governance (ESG) goals shifted to the backburner. Only 20% of chemical executives surveyed said their M&A strategy was driven by their corporate sustainability objectives or to desire to offer customers carbon-neutral or sustainably produced products. Chemical companies serious about helping to drive the industry’s decarbonization agenda would be well-served to consider ESG drivers when exploring new deals.
+
+Get proactive
+
+With chemical companies increasingly seeking out strategic M&A opportunities, the need to rebuild internal M&A skills is coming to the fore. If active deal environments tend to hone management expertise, the reverse is also true: periods of transactional inactivity can lead to lost organizational knowledge. In recent years, many internal M&A functions have dwindled down and seen their people redeployed. Rather than scrambling last minute, the time is now ripe for chemical companies to rebuild their transactional bench strength, clarify their processes, and define their strategies. Management teams planning to engage in strategic deal-making may benefit from rebuilding their internal M&A capabilities and ensuring they have access to due diligence, valuation, integration, and synergy value-capture support.
+
+Ready for the rebound
+
+Despite the headwinds the global chemical industry has faced, the long-term outlook for chemicals remains strong. The prevailing sentiment among industry executives backs this up, with an underlying belief that a resurgence in M&A activity is a matter of when, not if. Chemical companies interested in creating outsized returns with the right M&A moves may consequently wish to prepare by monitoring evolving market conditions across geographies, exploring smaller strategic acquisitions, and proactively rebuilding their internal M&A capabilities. Those that lay the foundation now will likely be better placed to identify and execute on synergistic deals as they emerge.E-commerce Defined: Types, History, and Examples
+Nearly any product and service is available through e-commerce transactions
+
+By ANDREW BLOOMENTHAL
+
+Full Bio
+ 
+ 
+Andrew Bloomenthal has 20+ years of editorial experience as a financial journalist and as a financial services marketing writer.
+Learn about our editorial policies 
+ Updated March 29, 2024
+Reviewed by MARGARET JAMES
+Fact checked by KATRINA MUNICHIELLO
+What Is E-commerce? Understanding E-commerce Special Considerations History Pros and Cons Types Revenue Models Example FAQs The Bottom Line
+What Is Electronic Commerce (E-commerce)?
+Electronic commerce (e-commerce) refers to companies and individuals that buy and sell goods and services over the internet. E-commerce operates in different types of market segments and can be conducted over computers, tablets, smartphones, and other smart devices. Nearly every imaginable product and service is available through e-commerce transactions, including books, music, plane tickets, and financial services such as stock investing and online banking. As such, it is considered a very disruptive technology.
+KEY TAKEAWAYS
+E-commerce is the buying and selling of goods and services over the internet.
+It is conducted over computers, tablets, smartphones, and other smart devices.
+Almost anything can be purchased through e-commerce today, which makes e-commerce highly competitive.
+It can be a substitute for brick-and-mortar stores, though some businesses choose to maintain both.
+E-commerce operates in several market segments including business-to-business, business-to-consumer, consumer-to-consumer, and consumer-to-business.
+Ecommerce
+Investopedia / Laura Porter
+
+Understanding E-commerce
+As noted above, e-commerce is the process of buying and selling tangible products and services online. It involves more than one party along with the exchange of data or currency to process a transaction. It is part of the greater industry that is known as electronic business (e-business), which involves all of the processes required to run a company online.
+1
+2
+
+E-commerce has helped businesses (especially those with a narrow reach like small businesses) gain access to and establish a wider market presence by providing cheaper and more efficient distribution channels for their products or services. Target (TGT) supplemented its brick-and-mortar presence with an online store that allows customers to purchase everything from clothes and coffeemakers to toothpaste and action figures right from their homes.
+
+Providing goods and services isn't as easy as it may seem. It requires a lot of research about the products and services you wish to sell, the market, audience, competition, as well as expected business costs.
+
+
+Once that's determined, you need to come up with a name and set up a legal structure, such as a corporation. Next, set up an e-commerce site with a payment gateway. For instance, a small business owner who runs a dress shop can set up a website promoting their clothing and other related products online and allow customers to make payments with a credit card or through a payment processing service, such as PayPal.
+3
+
+E-commerce may be thought of as a digital version of mail-order catalog shopping. Also called online commerce, e-commerce is the transaction between a buyer and a seller that leverages technology.
+
+Special Considerations
+E-commerce has changed the way people shop and consume products and services. More people are turning to their computers and smart devices to order goods, which can easily be delivered to their homes. As such, it has disrupted the retail landscape. Amazon and Alibaba have gained considerable popularity, forcing traditional retailers to make changes to the way they do business.
+
+But that's not all. Not to be outdone, individual sellers have increasingly engaged in e-commerce transactions via their own personal websites. And digital marketplaces such as eBay or Etsy serve as exchanges where multitudes of buyers and sellers come together to conduct business.
+
+The U.S. Department of Commerce recognizes e-commerce businesses such as transactional sites, static content sites, online marketplaces, and auction sites.
+4
+
+History of E-commerce
+Most of us have shopped online for something at some point, which means we've taken part in e-commerce. So it goes without saying that e-commerce is everywhere. But very few people may know that e-commerce has a history that goes back to before the internet began.
+
+E-commerce actually goes back to the 1960s when companies used an electronic system called the Electronic Data Interchange to facilitate the transfer of documents. It wasn't until 1994 that the very first transaction. took place. This involved the sale of a CD between friends through an online retail website called NetMarket.
+3
+
+The industry has gone through so many changes since then, resulting in a great deal of evolution. Traditional brick-and-mortar retailers were forced to embrace new technology in order to stay afloat as companies like Alibaba, Amazon, eBay, and Etsy became household names. These companies created a virtual marketplace for goods and services that consumers can easily access.
+
+New technology continues to make it easier for people to do their online shopping. People can connect with businesses through smartphones and other devices and by downloading apps to make purchases. The introduction of free shipping, which reduces costs for consumers, has also helped increase the popularity of the e-commerce industry.
+
+Advantages and Disadvantages of E-commerce
+Advantages
+E-commerce offers consumers the following advantages:
+
+Convenience: E-commerce can occur 24 hours a day, seven days a week. Although eCommerce may take a lot of work, it is still possible to generate sales as you sleep or earn revenue while you are away from your store.
+Increased Selection: Many stores offer a wider array of products online than they carry in their brick-and-mortar counterparts. And many stores that solely exist online may offer consumers exclusive inventory that is unavailable elsewhere.
+Potentially Lower Start-up Cost: E-commerce companies may require a warehouse or manufacturing site, but they usually don't need a physical storefront. The cost to operate digitally is often less expensive than needing to pay rent, insurance, building maintenance, and property taxes.
+International Sales: As long as an e-commerce store can ship to the customer, an e-commerce company can sell to anyone in the world and isn't limited by physical geography.
+Easier to Retarget Customers: As customers browse a digital storefront, it is easier to entice their attention towards placed advertisements, directed marketing campaigns, or pop-ups specifically aimed at a purpose.
+Disadvantages
+There are certain drawbacks that come with e-commerce sites, too. The disadvantages include:
+
+Limited Customer Service: If you shop online for a computer, you cannot simply ask an employee to demonstrate a particular model's features in person. And although some websites let you chat online with a staff member, this is not a typical practice.
+Lack of Instant Gratification: When you buy an item online, you must wait for it to be shipped to your home or office. However, e-tailers like Amazon make the waiting game a little bit less painful by offering same-day delivery as a premium option for select products.
+Inability to Touch Products: Online images do not necessarily convey the whole story about an item, and so e-commerce purchases can be unsatisfying when the products received do not match consumer expectations. Case in point: an item of clothing may be made from shoddier fabric than its online image indicates.
+Reliance on Technology: If your website crashes, garners an overwhelming amount of traffic, or must be temporarily taken down for any reason, your business is effectively closed until the e-commerce storefront is back.
+Higher Competition: Although the low barrier to entry regarding low cost is an advantage, this means other competitors can easily enter the market. E-commerce companies must have mindful marketing strategies and remain diligent on SEO optimization to ensure they maintain a digital presence.
+Pros
+Owners can generate revenue semi-passively
+
+Consumers can easily browse for specific products
+
+Greater earning potential as there are no limitations on physical location as long you can ship there
+
+Reduced costs assuming digital presence costs less than building, insurance, taxes, and repairs.
+
+Greater marketing control, including data extraction from customers, targeted ads, and pop-up placement
+
+Cons
+Limited customer service opportunities as there is little to no face-to-face opportunities
+
+Lacks instant gratification as customers must believe in a product before seeing it in person
+
+Products can't been seen or handled until delivered (can't try before they buy)
+
+Loss of revenue or income when websites go down
+
+High reliance on shipping constraints
+
+Higher competition due to lower barriers of entry and greater customer potential
+
+Types of E-commerce
+Depending on the goods, services, and organization of an ecommerce company, the business can opt to operate several different ways. Here are several of the popular business models.
+
+Business-to-Consumer (B2C)
+B2C e-commerce companies sell directly to the product end-user. Instead of distributing goods to an intermediary, a B2C company performs transactions with the consumer that will ultimately use the good.
+
+This type of business model may be used to sell products (like your local sporting goods store's website) or services (such as a lawn care mobile app to reserve landscaping services). This is the most common business model and is likely the concept most people think about when they hear the term e-commerce.
+
+Business-to-Business (B2B)
+Similar to B2C, an e-commerce business can directly sell goods to a user. However, instead of being a consumer, that user may be another company. B2B transactions often entail larger quantities, greater specifications, and longer lead times. The company placing the order may also have a need to set recurring goods if the purchase is for recurring manufacturing processes.
+
+Business-to-Government (B2G)
+Some entities specialize as government contractors providing goods or services to agencies or administrations. Similar to a B2B relationship, the business produces items of value and remits those items to an entity.
+
+B2G e-commerce companies must often meet government requests for proposal requirements, solicit bids for projects, and meet very specific product or service criteria. In addition, there may be joint government endeavors to solicit a single contract through a government-wide acquisition contract.
+
+Consumer-to-Consumer (C2C)
+Established companies are the only entities that can sell things. E-commerce platforms such as digital marketplaces connect consumers with other consumers who can list their own products and execute their own sales.
+
+These C2C platforms may be auction-style listings (i.e. eBay auctions) or may warrant further discussion regarding the item or service being provided (i.e. Craigslist postings). Enabled by technology, C2C e-commerce platforms empower consumers to both buy and sell without the need for companies.
+
+Consumer-to-Business (C2B)
+Modern platforms have allowed consumers to more easily engage with companies and offer their services, especially related to short-term contracts, gigs, or freelance opportunities. For example, consider listings on Upwork.
+
+A consumer may solicit bids or interact with companies that need particular jobs done. In this way, the e-commerce platform connects businesses with freelancers to enable consumers greater power to achieve pricing, scheduling, and employment demands.
+
+Consumer-to-Government (C2G)
+Less of a traditional e-commerce relationship, consumers can interact with administrations, agencies, or governments through C2G partnerships. These partnerships are often not in the exchange of service but rather, the transaction of obligation.
+
+For example, uploading your federal tax return to the Internal Revenue Service (IRS) digital website is an e-commerce transaction regarding an exchange of information. Alternatively, you may pay your tuition to your university online or remit property tax assessments to your county assessor.
+
+Types of Commerce
+Investopedia / Sabrina Jiang
+
+The U.S. Census Bureau conducts estimates of retail e-commerce sales in the United States. In the first quarter of 2023, retail e-commerce accounted for 15.1% of total sales in the country, totaling roughly $272.6 billion. These figures are adjusted for seasonal variation.
+5
+Types of E-commerce Revenue Models
+In addition to crafting what type of e-commerce company a business wants to be, the business must decide how it wants to make money. Due to the unique nature of e-commerce, the business has a few options on how it wants to process orders, carry inventory, and ship products.
+
+Dropshipping
+Often considered one of the easier forms of e-commerce, dropshipping allows a company to create a digital storefront, generate sales, then rely on a supplier to provide the good. When generating the sale, the e-commerce company collects payment via credit card, PayPal, cryptocurrency, or other means of digital currency.
+
+Then, the e-commerce store passes the order to the dropship supplier. This supplier manages inventory, oversees the warehouse of goods, packages the goods, and delivers the product to the purchaser.
+
+White Labeling
+White-label e-commerce companies leverage already successful products sold by another company. After a customer places an order, the e-commerce company receives the existing product, repackages the product with its own package and label, and distributes the product to the customer. Although the e-commerce company has little to no say in the product they receive, the company usually faces little to no in-house manufacturing constraints.
+
+Wholesaling
+A more capital-intensive approach to e-commerce, wholesaling entails maintaining quantities of inventory, keeping track of customer orders, maintaining customer shipping information, and typically having ownership of the warehouse space to house products.
+
+Wholesalers may charge bulk pricing to retailers or unit prices for consumers. However, the broad approach to wholesaling is to connect to buyers of large quantities or many smaller buyers of a similar, standardized product.
+
+Private Labeling
+Private labeling is a more appropriate e-commerce approach for companies that may not have large upfront capital or do not have their own factory space to manufacture goods. Private label e-commerce companies send plans to a contracted manufacturer who makes the product.
+
+The manufacturer may also have the ability to ship directly to a customer or ship directly to the company receiving the order. This method of e-commerce is best suited for companies that may receive on-demand orders with short turnaround times but are unable to handle the capital expenditure requirements.
+
+Subscription
+E-commerce companies can also leverage repeating orders or loyal customers by implementing subscription services. For a fixed price, the e-commerce company will assemble a package, introduce new products, and incentivize locking to a long-term agreement at a lower monthly price.
+
+The consumer only places an order once and receives their subscription order at a fixed cadence. Common subscription e-commerce products include meal prep services, agriculture boxes, fashion boxes, or health and grooming products.
+
+Example of E-commerce
+Amazon is a behemoth in the e-commerce space. In fact, it is the world's largest online retailer and continues to grow. As such, it is a huge disrupter in the retail industry, forcing some major retailers to rethink their strategies and shift their focus.
+
+The company launched its business with an e-commerce-based model of online sales and product delivery. It was founded by Jeff Bezos in 1994 as an online bookstore but has since expanded to include everything from clothing to housewares, power tools to food and drinks, and electronics.
+
+Company sales increased by 9% in 2022 from the previous year, totaling $513.98 billion compared to $469.82 billion in 2021. Amazon's operating income dropped from $24.88 billion in 2021 to $$12.25 billion in 2022. The company posted a net loss of $2.72 billion in 2022, compared to net income of $33.36 billion in 2021.
+6
+
+How Do You Start an E-commerce Business?
+Make sure you do your research before you start your business. Figure out what products and services you're going to sell and look into the market, target audience, competition, and expected costs.
+
+Next, come up with a name, choose a business structure, and get the necessary documentation (taxpayer numbers, licenses, and permits if they apply).
+
+Before you start selling, decide on a platform and design your website (or have someone do it for you).
+
+Remember to keep everything simple at the beginning and make sure you use as many channels as you can to market your business so it can grow.
+
+What Is an E-commerce Website?
+An e-commerce website is any site that allows you to buy and sell products and services online. Companies like Amazon and Alibaba are examples of e-commerce websites.
+
+What Is the Difference Between E-commerce and E-business?
+E-commerce involves the purchase and sale of goods and services online and is actually just one part of e-business. An e-business involves the entire process of running a company online. Put simply, it's all of the activity that takes place with an online business.
+
+What Is an Example of E-commerce?
+Dollar Shave Club offers customers personal grooming, health, and beauty products.
+7
+ Customers can opt for what product(s) they want shipped to them and can sign up for long-term memberships to have products sent to them on a recurring basis. Dollar Shave Club procures goods in bulk from other companies, then bundles those products, maintains membership subscriptions, and markets the products.
+
+What Are the Types of E-commerce?
+An e-commerce company can sell to customers, businesses, or agencies such as the government. E-commerce can also be performed by customers who sell to businesses, other customers, or governments.
+
+The Bottom Line
+E-commerce is just one part of running an e-business. While the latter involves the entire process of running a business online, e-commerce simply refers to the sale of goods and services via the internet. E-commerce companies like Amazon, Alibaba, and eBay have changed the way the retail industry works, forcing major, traditional retailers to change the way they do business.
+
+If starting an e-commerce site is something you're considering, make sure you do your research before you start. And make sure you start with a small, narrow focus to ensure that you have room to grow.
+SPONSORED
+Buy, Trade, and Hold 350+ Cryptocurrencies
+Join 120 million registered users exchanging the world's most popular cryptocurrencies. Purchase and trade Bitcoin, Ethereum, or BNB, Binance's native coin. Whether you're a beginner trader, crypto enthusiast, or professional, you'll benefit from access to the global crypto markets while enjoying some of the lowest fees in the business. Plus, tools and guides that make it easy to safely and securely sell, buy and convert NFTs on the Binance app.
+
+ARTICLE SOURCES
+
+
+
+
+
+
+
+Related Terms
+Commerce: What It Is, How It Differs From Business and Trade
+Commerce is an exchange between two parties of goods or services for money. The word often implies large-scale transactions. more
+B2C: How Business-to-Consumer Sales Works, 5 Types and Examples
+Business-to-consumer (B2C) is a digital sales model in which products and services are sold between a company and consumer, or two consumers. more
+Gross Merchandise Value (GMV): Definition, Formula, Pros and Cons, and Example
+GMV or gross merchandise value is the total value of goods sold via customer-to-customer (C2C) or e-commerce platforms. Check out the pros and cons of GMV. more
+What Is Cyber Monday? History and Milestones
+Cyber Monday is the Monday following American Thanksgiving, representing the day online retailers offer deep discounts. Sales have increased significantly. more
+Electronic Retailing (e-Tailing): Definition, Types, Examples
+Electronic retailing (e-tailing) is the sale of goods and services over the Internet, which can include B2B or B2C sales. more
+What Is PayPal and How Does it Work?
+PayPal is an electronic commerce company that facilitates payments between parties through online funds transfers. more
+Related Articles
+The Shopify logo is displayed on a smartphone screen
+How Shopify and Shop Pay Make Money
+Commerce
+Commerce: What It Is, How It Differs From Business and Trade
+Business to Consumer (B2C)
+B2C: How Business-to-Consumer Sales Works, 5 Types and Examples
+Gross Merchandise Value
+Gross Merchandise Value (GMV): Definition, Formula, Pros and Cons, and Example
+Payment by Card
+How to Accept Credit Card Payments
+Computer keyboard with a tiny shopping cart parked on it and a red Cyber Monday button.
+What Is Cyber Monday? History and Milestones
+
+
+Partner Links
+
+
+
+
+TRUSTe
+About Us
+Terms of Service
+Dictionary
+Editorial Policy
+Advertise
+News
+Privacy Policy
+Contact Us
+Careers
+#
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Investopedia is part of the Dotdash Meredith publishing family.
